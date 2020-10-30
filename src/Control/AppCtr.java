@@ -19,6 +19,7 @@ public class AppCtr {
         //
         
         System.out.println("My big change");
+        System.out.println("My second");
     }
     
 }
